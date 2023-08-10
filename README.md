@@ -16,3 +16,9 @@ The main stacks we are currently working on as as follows:
 2. Immersive Communities Repo
 
 We will also host repos for future work on Immersive Communities
+
+# Update Timeline
+
+## August 9th 2023
+
+Released codesmash-aws-serverless-web. This repo contains AWS S3 and AWS Cloudfront Terraform modules and will be used as a serverless web server on AWS.
