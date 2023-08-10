@@ -19,7 +19,7 @@ The main stacks we are currently working on as as follows:
 
 We will also host repos for future work on Immersive Communities
 
-# Update Timeline
+# Change Log
 
 ## August 9th 2023
 
