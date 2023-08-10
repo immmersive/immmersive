@@ -6,6 +6,8 @@ Building immersive software
 
 1. CodeSmash Repo
 
+![CodeSmash](https://github.com/immmersive/immmersive/blob/main/CodeSmash.jpg)
+
 We are serving official CodeSmash stacks on GitHub. You can import them into your AWS account directly from CodeSmash.
 The main stacks we are currently working on as as follows:
 
