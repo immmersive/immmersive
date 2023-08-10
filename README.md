@@ -17,6 +17,8 @@ The main stacks we are currently working on as as follows:
 
 ## Immersive Communities Repo
 
+![CodeSmash](https://github.com/immmersive/immmersive/blob/main/BPL.jpg)
+
 We will also host repos for future work on Immersive Communities
 
 # Change Log
