@@ -32,6 +32,6 @@ This repo contains AWS S3 and AWS Cloudfront Terraform modules and will be used 
 
 ## Roadmap
 
-- **codesmash-aws-serverless-api**
+**codesmash-aws-serverless-api**
   - This repo will serve Terraform files for deploying a serverless API with AWS API GateWay and AWS Lambda. 
 
