@@ -20,13 +20,13 @@ We will also host repos for future work on Immersive Communities
 
 ## August 24th 2023
 
-Released **codesmash-aws-serverless-cicd**. 
+Released [codesmash-aws-serverless-cicd](https://github.com/immmersive/codesmash-aws-serverless-cicd).
 
 This repo contains Terraform files for deploying a serverless CI/CD pipeline with AWS CodeCommit, CodeBuild and CodePipeline.
 
 ## August 9th 2023
 
-Released **codesmash-aws-serverless-web**. 
+Released [codesmash-aws-serverless-web](https://github.com/immmersive/codesmash-aws-serverless-web). 
 
 This repo contains AWS S3 and AWS Cloudfront Terraform modules and will be used as a serverless web server on AWS.
 
