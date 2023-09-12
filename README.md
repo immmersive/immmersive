@@ -18,12 +18,17 @@ We will also host repos for future work on Immersive Communities
 
 # Change Log
 
+## September 13th 2023
+
+Released [codesmash-aws-serverless-pipeline](https://github.com/immmersive/codesmash-aws-serverless-pipeline).
+
+This repo contains Terraform modules for deploying a serverless CI/CD pipeline with CodeBuild and CodePipeline with an existing AWS CodeCommit repository.
+
 ## September 4th 2023
 
 Released [codesmash-aws-serverless-api](https://github.com/immmersive/codesmash-aws-serverless-api).
 
 This repo contains Terraform modules for deploying a serverless API with AWS API Gateway, Lambda and DynamoDB.
-
 
 ## August 24th 2023
 
