@@ -24,6 +24,10 @@ Released [codesmash-aws-serverless-pipeline-github](https://github.com/immmersiv
 
 This repo contains Terraform modules for deploying a serverless CI/CD pipeline with CodeBuild and CodePipeline with an existing GitHub repository.
 
+Released [codesmash-aws-serverless-aurelia](https://github.com/immmersive/codesmash-aws-serverless-aurelia).
+
+This repo contains a highly customized template for deploying a serverless Aurelia web app.
+
 ## September 13th 2023
 
 Released [codesmash-aws-serverless-pipeline](https://github.com/immmersive/codesmash-aws-serverless-pipeline).
