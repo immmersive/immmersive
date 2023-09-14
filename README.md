@@ -18,6 +18,12 @@ We will also host repos for future work on Immersive Communities
 
 # Change Log
 
+## September 14th 2023
+
+Released [codesmash-aws-serverless-pipeline-github](https://github.com/immmersive/codesmash-aws-serverless-pipeline-github).
+
+This repo contains Terraform modules for deploying a serverless CI/CD pipeline with CodeBuild and CodePipeline with an existing GitHub repository.
+
 ## September 13th 2023
 
 Released [codesmash-aws-serverless-pipeline](https://github.com/immmersive/codesmash-aws-serverless-pipeline).
