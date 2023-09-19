@@ -18,6 +18,12 @@ We will also host repos for future work on Immersive Communities
 
 # Change Log
 
+## September 19th 2023
+
+Released [codesmash-aws-serverless-auth](https://github.com/immmersive/codesmash-aws-serverless-auth).
+
+This repo contains Terraform modules for deploying a serverless Auth system with AWS Cognito and AWS Lambda.
+
 ## September 14th 2023
 
 Released [codesmash-aws-serverless-pipeline-github](https://github.com/immmersive/codesmash-aws-serverless-pipeline-github).
