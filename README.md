@@ -18,7 +18,7 @@ We will also host repos for future work on Immersive Communities
 
 # Change Log
 
-## August 9th 2023
+## October 1st 2023
 
 Updated [codesmash-aws-serverless-web](https://github.com/immmersive/codesmash-aws-serverless-web). 
 
