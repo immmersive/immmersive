@@ -18,6 +18,12 @@ We will also host repos for future work on Immersive Communities
 
 # Change Log
 
+## August 9th 2023
+
+Updated [codesmash-aws-serverless-web](https://github.com/immmersive/codesmash-aws-serverless-web). 
+
+Added Lambda@Edge to the AWS Cloudfront distribution as a default option. Now the users can browse your static website on each route properly.
+
 ## September 19th 2023
 
 Released [codesmash-aws-serverless-auth](https://github.com/immmersive/codesmash-aws-serverless-auth).
