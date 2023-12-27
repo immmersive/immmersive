@@ -10,13 +10,13 @@ Building immersive software
 
 We are serving official CodeSmash stacks on GitHub. You can import them into your AWS account directly from CodeSmash.
 
-## Immersive Communities Repo
-
-![CodeSmash](https://github.com/immmersive/immmersive/blob/main/BPL.png)
-
-We will also host repos for future work on Immersive Communities
-
 # Change Log
+
+## December 28th 2023
+
+Released [codesmash-aws-serverless-auth](https://github.com/immmersive/codesmash-aws-serverless-auth).
+
+This repo contains a Next.js boilerplate with Tailwind CSS.
 
 ## October 1st 2023
 
