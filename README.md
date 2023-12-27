@@ -16,7 +16,7 @@ We are serving official CodeSmash stacks on GitHub. You can import them into you
 
 Released [codesmash-aws-serverless-nextjs](https://github.com/immmersive/codesmash-aws-serverless-nextjs).
 
-This repo contains a Next.js boilerplate with Tailwind CSS.
+This repo contains a Serverless Next.js boilerplate with Tailwind CSS.
 
 ## October 1st 2023
 
