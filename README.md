@@ -12,6 +12,12 @@ We are serving official CodeSmash stacks on GitHub. You can import them into you
 
 # Change Log
 
+## April 1st 2024
+
+Updated [codesmash-aws-serverless-api](https://github.com/immmersive/codesmash-aws-serverless-api).
+
+Added a new type index to DynamoDB.
+
 ## December 28th 2023
 
 Released [codesmash-aws-serverless-nextjs](https://github.com/immmersive/codesmash-aws-serverless-nextjs).
