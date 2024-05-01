@@ -10,6 +10,12 @@ Building immersive software
 
 We are serving official CodeSmash stacks on GitHub. You can import them into your AWS account directly from CodeSmash.
 
+# CodeSmash Project page
+
+[Project Page](https://github.com/users/immmersive/projects/1)
+
+You can track progress and request new features on the project page.
+
 # Change Log
 
 ## April 1st 2024
