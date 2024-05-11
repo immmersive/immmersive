@@ -18,6 +18,13 @@ You can track progress and request new features on the project page.
 
 # Change Log
 
+## May 6th 2024
+
+Updated [codesmash-aws-serverless-api](https://github.com/immmersive/codesmash-aws-serverless-api).
+
+Added dynamic indexxes and columns to the DynamoDB terraform definition.
+Updated the buildspec parameters.
+
 ## April 1st 2024
 
 Updated [codesmash-aws-serverless-api](https://github.com/immmersive/codesmash-aws-serverless-api).
