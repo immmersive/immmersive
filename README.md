@@ -1,9 +1,5 @@
 # Immersive GitHub Repo
 
-Building immersive software
-
-# What you can expect from this repo
-
 ## CodeSmash Repo
 
 ![CodeSmash](https://github.com/immmersive/immmersive/blob/main/CodeSmash.jpg)
@@ -16,6 +12,15 @@ We are serving official CodeSmash stacks on GitHub. You can import them into you
 
 You can track progress and request new features on the project page.
 Contains each feature on a To Do board and a Roadmap as well.
+
+# CodeSmash Features
+
+Currently you can do the following with CodeSmash:
+
+- Deploy Serverless Web Hosting
+- Deploy clientside Next.JS web app on serverless web hosting.
+- Deploy Serverless REST API
+- Build REST API business logic with No Code Builder (in development) 
 
 [Old Changelog](https://github.com/immmersive/immmersive/blob/main/ChangeLog.md)
 
