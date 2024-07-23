@@ -10,6 +10,8 @@ We are serving official CodeSmash stacks on GitHub. You can import them into you
 
 We are hosting our roadmap on Featurebase. Feel free to upvote and request new features.
 
+![Featurebase](featurebaseapp_logo.jpeg)
+
 [Roadmap](https://codesmash.featurebase.app)
 
 
