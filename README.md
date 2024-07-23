@@ -6,7 +6,7 @@
 
 We are serving official CodeSmash stacks on GitHub. You can import them into your AWS account directly from CodeSmash.
 
-# CoderSmash Roadmap
+# CodeSmash Roadmap
 
 We are hosting our roadmap on Featurebase. Feel free to upvote and request new features.
 
